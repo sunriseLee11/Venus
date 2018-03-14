@@ -1,4 +1,4 @@
-> ##安装步骤
+#安装步骤
 > ####1. 安装系统ubuntu16.04-64位系统
 > ####2. 安装vim
 > sudo apt-get install vim
